@@ -2,5 +2,14 @@ head {
   background-color: #8ec2fa;
   font-color: antiquewhite;
   font-family: 'Helvetica', sans-serif;
+}
+h1 {
   text-align: center;
+}
+h2 {
+  text-align: center;
+}
+body {
+  color: #8ec2fa;
+  font-color: antiquewhite;
 }
