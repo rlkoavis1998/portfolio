@@ -5,3 +5,7 @@ h1 {
 h2 {
   text-align: center;
 }
+p {
+  padding-left: 20;
+  padding-right: 20;
+}
